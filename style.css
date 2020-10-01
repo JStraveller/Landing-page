@@ -47,9 +47,6 @@ header .container {
   align-items: center;
   /* margin-left: 10%; */
 }
-.logo-img {
-
-}
 
 .logo-name {
  text-transform: uppercase;
@@ -236,8 +233,6 @@ h1 {
   gap: 10px;
 }
 
-.thumbnail-item {
-}
 
 /* Footer */
 .footer {
