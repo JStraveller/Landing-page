@@ -2,4 +2,4 @@
 Практика верстки по макету. Присуствует адаптивность.
 
 ## Demo
-https://jstraveller.github.io/Landing-page/
+https://aaleo402.github.io/Landing-page/
